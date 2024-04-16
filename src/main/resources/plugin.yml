@@ -1,0 +1,3 @@
+name: AntiFly
+version: '${project.version}'
+main: cn.marinda.antifly.AntiFly

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AntiFly">
+    <output-path>$USER_HOME$/Desktop/AntiFly</output-path>
+    <root id="archive" name="AntiFly.jar">
+      <element id="module-output" name="AntiFly" />
+    </root>
+  </artifact>
+</component>
