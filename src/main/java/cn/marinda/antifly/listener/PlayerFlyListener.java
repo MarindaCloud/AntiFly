@@ -10,6 +10,8 @@ import org.bukkit.event.player.PlayerMoveEvent;
  * @author Marinda
  */
 public class PlayerFlyListener implements Listener {
+
+
     /**
      * When player is moving, the method will be called immediately
      * @param event PlayerMoveEvent
